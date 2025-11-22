@@ -4,5 +4,5 @@
 2023 National 3D Digital Innovation Design Competition Longding Award (National Finals) Second Prize\
 2023-2024 National 3D Digital Innovation Design Competition 16th Anniversary Elite League Longding Award (National Finals) First Prize\
 2024 Jilin University "College Students Innovation and Entrepreneurship Training Program" Provincial-level Completion Certificate\
-2024 China College Students Computer Design Competition (Jilin Provincial Competition) First Prize\
+2024 China College Students Computer Design Competition (Jilin Provincial Competition) First Prize
 
