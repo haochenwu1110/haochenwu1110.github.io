@@ -1,6 +1,6 @@
 
 
-[![](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)haochenwu1110
+haochenwu1110
 
 He is currently a Fellow in the Department of Industrial Engineering (IE) at Jilin University.
 #### Contact
